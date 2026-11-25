@@ -1,9 +1,9 @@
 const settings = {
-  packname: '𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗',
+  packname: 'TANVEER - X MD',
   author: '‎',
-  botName: "𝐓𝐎𝐌 𝐏𝐑𝐈𝐌𝐄 𝐗 𝐁𝐎𝐓",
-  botOwner: '𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐓𝐎𝐌 𝐗', // Your name
-  ownerNumber: '8801892625209', //Set your number here without + symbol, just add country code & number without any space
+  botName: "TANVEER  MD 𝐁𝐎𝐓",
+  botOwner: 'TANVEER BRO', // Your name
+  ownerNumber: '8801607258290', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
