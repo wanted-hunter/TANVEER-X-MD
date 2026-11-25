@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png" width="300" height="300" alt="TOM-PRIME-X-BOT">
+  <img src="https://i.postimg.cc/DyqKStwP/IMG-20260410-WA0057.png" width="300" height="300" alt="TANVEER-X-MD BOT">
 </p>
 
-<h1 align="center">✨ 𝐓𝐎𝐌-𝐏𝐑𝐈𝐌𝐄-𝐗-𝐁𝐎𝐓 ✨</h1>
+<h1 align="center">✨ TANVEER-X-MD ✨</h1>
 
 <p align="center">
   <a href="https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT/stargazers"><img src="https://img.shields.io/github/stars/TOM-PRIME-X/TOM-PRIME-X-BOT?color=blue&style=for-the-badge" alt="Stars"></a>
   <a href="https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT/network/members"><img src="https://img.shields.io/github/forks/TOM-PRIME-X/TOM-PRIME-X-BOT?color=cyan&style=for-the-badge" alt="Forks"></a>
-  <a href="https://youtube.com/@saycotom?si=qwesTStsDFouNtuA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
-  <a href="https://whatsapp.com/channel/0029Vb7clzdJENxtbn1shb0I"><img src="https://img.shields.io/badge/Channel-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://youtube.com/@snl_profit_zone?si=_hM95W9eTZV66YjQ"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://whatsapp.com/channel/0029VbDvP5a7tkjBdomvsA2E"><img src="https://img.shields.io/badge/Channel-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
 </p>
 
 <p align="center">
-  <b>TOM-PRIME-X-BOT</b> is a highly stable, multi-functional, and high-performance WhatsApp bot developed to make your digital life easier and more stylish. Built with Node.js and Baileys.
+  <b>TANVEER-X-MD BOT</b> is a highly stable, multi-functional, and high-performance WhatsApp bot developed to make your digital life easier and more stylish. Built with Node.js and Baileys.
 </p>
 
 ---
 
 ### 🚀 **𝐐𝐮𝐢𝐜𝐤 𝐂𝐨𝐧𝐧𝐞𝐜𝐭**
-* **Developer:** Tom Prime X
+* **Developer:** TANVEER BRO
 * **Location:** Dhaka, Bangladesh 
 * **GitHub:** [TOM-PRIME-X](https://github.com/TOM-PRIME-X/TOM-PRIME-X-BOT)
-* **YouTube:** [@saycotom](https://youtube.com/@saycotom?si=qwesTStsDFouNtuA)
-* **WhatsApp:** [Official Channel](https://whatsapp.com/channel/0029Vb7clzdJENxtbn1shb0I)
+* **YouTube:** [@saycotom](https://youtube.com/@snl_profit_zone?si=_hM95W9eTZV66YjQ)
+* **WhatsApp:** [Official Channel](https://whatsapp.com/channel/0029VbDvP5a7tkjBdomvsA2E)
 
 ---
 
